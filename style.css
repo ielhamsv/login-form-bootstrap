@@ -1,0 +1,30 @@
+#bg{
+    background:url("img/ocean.webp") center/cover no-repeat;
+}
+#form-sec{
+    display: flex;
+    align-items: center;
+}
+input{
+    border: none;
+    outline: none;
+}
+#facebook i{
+    color: #4167b1;
+    border: 2px solid #4167b1;
+}
+#google i{
+    color: #d93f21;
+    border: 2px solid #d93f21;
+}
+#microsoft i {
+    color: #ff4b26;
+    border: 2px solid #ff4b26;
+}
+#linkedin i {
+    color: #0a66c2;
+    border: 2px solid #0a66c2;
+}
+a{
+    text-decoration: none;
+}
